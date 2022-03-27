@@ -1,6 +1,6 @@
 {
   "name": "@publish-test/changeset-test-b",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "xiaoYown <qzy09101018@sina.com>",
   "license": "ISC",
@@ -26,6 +26,6 @@
     "typescript": "^4.4.4"
   },
   "dependencies": {
-    "@publish-test/changeset-test-c": "workspace:^0.0.0"
+    "@publish-test/changeset-test-c": "workspace:^1.0.0"
   }
 }
