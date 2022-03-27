@@ -1,4 +1,4 @@
-import packageC from '@publish-test/changeset-test-c';
+import packageC from '@xv-publish-test/changeset-test-c';
 
 function templateEg(): void {
   console.log('Lib exempli.');

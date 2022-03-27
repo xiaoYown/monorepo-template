@@ -1,11 +1,11 @@
-# `@publish-test/changeset-test-a`
+# `@xv-publish-test/changeset-test-a`
 
 > TODO: description
 
 ## Usage
 
 ```
-const libTemplate = require('@publish-test/changeset-test-a');
+const libTemplate = require('@xv-publish-test/changeset-test-a');
 
 // TODO: DEMONSTRATE API
 ```

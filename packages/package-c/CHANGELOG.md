@@ -1,4 +1,4 @@
-# @publish-test/changeset-test-c
+# @xv-publish-test/changeset-test-c
 
 ## 1.0.0
 

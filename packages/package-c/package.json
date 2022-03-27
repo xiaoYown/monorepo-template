@@ -1,5 +1,5 @@
 {
-  "name": "@publish-test/changeset-test-c",
+  "name": "@xv-publish-test/changeset-test-c",
   "version": "1.0.0",
   "description": "> TODO: description",
   "author": "xiaoYown <qzy09101018@sina.com>",
@@ -15,7 +15,12 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "http://registry.npmjs.org/"
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoYown/monorepo-template.git"
   },
   "scripts": {
     "dev": "lib-cli dev",

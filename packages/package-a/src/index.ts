@@ -1,5 +1,5 @@
-import packageB from '@publish-test/changeset-test-b';
-import packageC from '@publish-test/changeset-test-c';
+import packageB from '@xv-publish-test/changeset-test-b';
+import packageC from '@xv-publish-test/changeset-test-c';
 
 function templateEg(): void {
   console.log('Lib exempli.');

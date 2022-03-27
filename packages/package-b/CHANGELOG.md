@@ -1,4 +1,4 @@
-# @publish-test/changeset-test-b
+# @xv-publish-test/changeset-test-b
 
 ## 1.0.0
 
@@ -9,4 +9,4 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @publish-test/changeset-test-c@1.0.0
+  - @xv-publish-test/changeset-test-c@1.0.0
