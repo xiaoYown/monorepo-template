@@ -1,0 +1,4 @@
+packages/**/bin
+packages/**/lib
+
+.eslintcache

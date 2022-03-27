@@ -1,0 +1,31 @@
+{
+  "name": "@publish-test/changeset-test-b",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "xiaoYown <qzy09101018@sina.com>",
+  "license": "ISC",
+  "main": "lib/cjs/package-b.js",
+  "module": "lib/esm/package-b.js",
+  "bundle": "lib/browser/package-b.js",
+  "types": "lib/esm/package-b.d.ts",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/"
+  },
+  "scripts": {
+    "dev": "lib-cli dev",
+    "build": "lib-cli build"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.2",
+    "typescript": "^4.4.4"
+  },
+  "dependencies": {
+    "@publish-test/changeset-test-c": "workspace:^0.0.0"
+  }
+}
