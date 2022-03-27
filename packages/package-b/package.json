@@ -1,6 +1,6 @@
 {
   "name": "@xv-publish-test/changeset-test-b",
-  "version": "1.0.0",
+  "version": "1.0.1-alpha.0",
   "description": "> TODO: description",
   "author": "xiaoYown <qzy09101018@sina.com>",
   "license": "ISC",
@@ -31,6 +31,6 @@
     "typescript": "^4.4.4"
   },
   "dependencies": {
-    "@xv-publish-test/changeset-test-c": "workspace:^1.0.0"
+    "@xv-publish-test/changeset-test-c": "workspace:^1.0.1-alpha.0"
   }
 }
