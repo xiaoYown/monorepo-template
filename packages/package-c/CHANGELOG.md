@@ -1,5 +1,11 @@
 # @xv-publish-test/changeset-test-c
 
+## 1.0.2
+
+### Patch Changes
+
+- update changelog setting
+
 ## 1.0.1
 
 ### Patch Changes

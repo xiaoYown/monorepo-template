@@ -1,5 +1,14 @@
 # @xv-publish-test/changeset-test-a
 
+## 1.0.4
+
+### Patch Changes
+
+- update changelog setting
+- Updated dependencies
+  - @xv-publish-test/changeset-test-b@1.0.2
+  - @xv-publish-test/changeset-test-c@1.0.2
+
 ## 1.0.3
 
 ### Patch Changes
