@@ -5,7 +5,7 @@
   "fixed": [],
   "linked": [],
   "access": "restricted",
-  "baseBranch": "master",
+  "baseBranch": "changeset",
   "updateInternalDependencies": "patch",
   "ignore": []
 }

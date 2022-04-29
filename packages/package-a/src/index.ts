@@ -11,6 +11,7 @@ export const exec02 = () => {
 
 function templateEg(): void {
   console.log('Lib exempli.');
+  console.log('Lib exempli.');
   console.log(packageB);
   console.log(packageC);
 }
